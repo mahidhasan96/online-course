@@ -75,7 +75,7 @@ let Data = [
     },
     {
         id: 14,
-        name: 'Java - Basic to Advance and core part',
+        name: 'Java - Basic to Advance part',
         price: 299.99,
         img: 'https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg'
     },

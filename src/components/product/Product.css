@@ -5,9 +5,16 @@
 }
 .product{
     width:100%;
-    height: 300px;
+    height: 350px;
     background-color:yellow;
     margin-bottom: 2px;
     text-align: center;
     
+}
+.button{
+    background-color:gray;
+    widows: 200px;
+    height: 35px;
+    border:none;
+    border-radius: 5px;
 }
