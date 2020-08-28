@@ -1,0 +1,8 @@
+
+.course-items{
+    float: left;
+    width:75%;
+    border-right:1px solid red;
+    margin-right: 20px;
+
+}

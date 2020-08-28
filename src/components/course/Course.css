@@ -1,0 +1,23 @@
+.course{
+    text-align: center;
+}
+
+.course img{
+    width: 300px;
+}
+.course nav{
+    font-family:tahoma;
+    background-color: black;
+    line-height: 36px;
+    
+}
+.course nav a{
+    color: white;
+    font-size:20px;
+    padding: 6px;
+    text-decoration: none;
+}
+.course nav a:hover{
+    background-color:gray;
+    border-bottom:2px solid aqua;
+}
