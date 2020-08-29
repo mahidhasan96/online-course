@@ -12,9 +12,10 @@
     
 }
 .button{
-    background-color:gray;
-    widows: 200px;
+    background-color: tomato;
+    width: 200px;
     height: 35px;
     border:none;
     border-radius: 5px;
+    cursor: pointer;
 }
