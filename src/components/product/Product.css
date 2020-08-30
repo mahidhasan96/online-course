@@ -1,7 +1,12 @@
 .product img{
-    width:300px;
-    height: 200px;
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+
     
+}
+.product:hover img{
+    rotate:90deg;
 }
 .product{
     width:100%;
